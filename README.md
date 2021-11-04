@@ -1,3 +1,4 @@
+
 ## Misión TIC - Ciclo 4a - G71
 
-[Recursos]('/RESOURCES.md')
+* [Recursos](RESOURCES.md)
